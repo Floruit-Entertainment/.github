@@ -1,4 +1,4 @@
-# 🌱 Floruit Entertainment
+# Floruit Entertainment
 
 ![Floruit Entertainment](https://i.imgur.com/JKHwzWf.jpeg)
 
