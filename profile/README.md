@@ -2,10 +2,10 @@
 
 ![Floruit Entertainment](https://i.imgur.com/JKHwzWf.jpeg)
 
-Welcome to the official **Floruit Entertainment** repository! We are a company specialized in creating innovative experiences within the **Games** universe, working with servers, maps, and high-level events. 🎮✨
+We are Floruit Entertainment. A group of games with creative and blossoming minds that seek to achieve the maximum in all artistic spheres discovered to date, with a focus on productions that inspire and respect people. Founded in 2021, our team spread worldwide, across Europe, America, and Asia, is aligned with our headquarters in Cuiabá, Mato Grosso, Brazil. 🎮✨
 
 ## 🚀 About Us
-**Floruit Entertainment** is a leading company in content creation and technology within the **Minecraft** ecosystem. We have developed projects for renowned brands and events, including:
+With more than 20 brilliant artists and professionals, together we form a conglomerate of Game Creation, Data and Infrastructure Management, and Technology with countless petals that connect to other companies. Our collaboration with major brands in the market shows the blossoming of new arts!
 
 - 🏎️ **Senna Brands** – Special project in the Minecraft Marketplace featuring over 200 detailed models and an immersive narrative.
 - 🎮 **Twitch Rivals** – Exclusive competitive events within Minecraft.
